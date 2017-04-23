@@ -1,0 +1,10 @@
+Apr 23 23:02:01 chandrareddy6 systemd: Started Session 135 of user root.
+Apr 23 23:02:01 chandrareddy6 systemd: Starting Session 135 of user root.
+Apr 23 23:02:01 chandrareddy6 systemd: Removed slice user-0.slice.
+Apr 23 23:02:01 chandrareddy6 systemd: Stopping user-0.slice.
+Apr 23 23:03:01 chandrareddy6 systemd: Created slice user-0.slice.
+Apr 23 23:03:01 chandrareddy6 systemd: Starting user-0.slice.
+Apr 23 23:03:01 chandrareddy6 systemd: Started Session 136 of user root.
+Apr 23 23:03:01 chandrareddy6 systemd: Starting Session 136 of user root.
+Apr 23 23:03:01 chandrareddy6 systemd: Removed slice user-0.slice.
+Apr 23 23:03:01 chandrareddy6 systemd: Stopping user-0.slice.
